@@ -9,3 +9,9 @@
 โปรเจคสร้างหน้าปัดรถยนต์บอกความเร็ว
 <p align=left><img src="./BlynkGO_Speedometer/BlynkGO_Speedometer.gif"></p>
 
+## HomePlan Switch
+โปรเจคสร้าง สวิตซ์เปิดปิดไฟ จากแปลนบ้าน
+
+## HomePlan Switch with Blynk
+โปรเจคสร้าง สวิตซ์เปิดปิดไฟ จากแปลนบ้าน  
+ให้ทำงานร่วมกับแอพ Blynk
