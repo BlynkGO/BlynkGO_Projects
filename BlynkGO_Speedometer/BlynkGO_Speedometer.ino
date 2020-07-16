@@ -1,6 +1,6 @@
 #include <BlynkGO.h>
 
-#define BLYNKGO_KEY   "48c89537d6695ad0"
+#define BLYNKGO_KEY   "---------------"
 
 IMG_DECLARE(pic_speedometer);
 
