@@ -2,11 +2,11 @@
 #include "NixieClock.h"
 #include <TridentTD_LineNotify.h>
 
-#define BLYNKGO_KEY           "48c89537d6695ad0"
+#define BLYNKGO_KEY           "----------------"
 
-#define SSID                  "MiHome"
-#define PASSWORD              "12345678"
-#define LINE_TOKEN            "BsWJNFbbA6DwOSjtp5XwLfXpyG5TeZwtlZONHS9eQNL"
+#define SSID                  "----------------"
+#define PASSWORD              "----------------"
+#define LINE_TOKEN            "----------------"
 
 
 void capture_notify();
@@ -62,8 +62,4 @@ void capture_notify(){
   capture_counter++;
 }
 
-//#define BLYNKGO_KEY           "----------------"
-//
-//#define SSID                  "----------------"
-//#define PASSWORD              "----------------"
-//#define LINE_TOKEN            "----------------"
+
