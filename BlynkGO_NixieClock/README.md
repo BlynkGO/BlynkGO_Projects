@@ -1,4 +1,4 @@
-# BlynkGO_NixieClock
+# โปรเจค BlynkGO_NixieClock
 โปรเจค แสดง นาฬิกา ด้วย Nixie Tube  
 พร้อมทั้ง เมื่อมีการกดที่นาฬิกาค้างจะทำการจับภาพหน้าจอ  
 แล้วส่ง LINE Notify ภาพหน้าจอนั้น
@@ -14,9 +14,8 @@
 
 ```cpp
 #include <BlynkGO.h>
-#include <TridentTD_LineNotify.h>  // download ได้ที่ https://github.com/TridentTD/TridentTD_LineNotify
 #include "NixieClock.h"
-
+#include <TridentTD_LineNotify.h>
 
 #define BLYNKGO_KEY           "----------------"
 
@@ -32,6 +31,7 @@ void setup() {
   BlynkGO.begin(BLYNKGO_KEY);
   BlynkGO.fillScreen(TFT_WHITE);
 
+  Serial.println("WiFi Connecting...");
   WiFi.begin(SSID, PASSWORD);     // เริ่มเชื่อมต่อสัญญาณ WiFi
   LINE.setToken(LINE_TOKEN);      // กำหนด Line Notify Token
 
@@ -51,11 +51,13 @@ void loop() {
 
 }
 
+/* เมื่อ WiFi มีการเชื่อมต่อสำเร็จ*/
 WIFI_CONNECTED(){
   Serial.print("WiFi Connected. IP : ");
   Serial.println(WiFi.localIP());
 }
 
+/* เมื่อ BlynkGO ซิงค์เวลาจาก NTP สำเร็จ*/
 NTP_SYNCED(){
   static GTimer clock_timer;
   clock_timer.setInterval(1000L,[](){
@@ -68,11 +70,13 @@ NTP_SYNCED(){
 
 void capture_notify(){
   static uint8_t capture_counter =1;
-  char filename[128];
-  snprintf(filename, 128, "SD://BlynkGO/captures/nixieclock_%02d.png", capture_counter);
-  BlynkGO.capture( filename);
-  LINE.notifyPicture( SD, StringX::printf("/BlynkGO/captures/nixieclock_%02d.png", capture_counter ++).c_str() );
+
+  BlynkGO.capture(        StringX::printf("SD://BlynkGO/captures/nixieclock_%02d.png" , capture_counter).c_str());
+  LINE.notifyPicture( SD, StringX::printf("/BlynkGO/captures/nixieclock_%02d.png"     , capture_counter).c_str());
+
+  capture_counter++;
 }
+
 
 
 ```

@@ -1,6 +1,7 @@
-## [BlynkGO Projects] Speedometer หน้าปัดรถยนต์บอกความเร็ว
+## โปรเจค BlynkGO_Speedometer 
+โปรเจคสำหรับสร้าง หน้าปัดรถยนต์บอกความเร็ว 
 
-![BlynkGO_Speedometer](https://github.com/BlynkGO/BlynkGO_Projects/blob/master/BlynkGO_Speedometer/BlynkGO_Speedometer.gif?raw=true) 
+<p align=left><img src="./BlynkGO_Speedometer.gif"></p>
 
 ### หลักการสร้าง
 1. รูปหน้าปัด สร้างเป็น วิตเจ็ตรูป ไว้ layer ด้านหลัง
