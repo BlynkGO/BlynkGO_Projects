@@ -1,4 +1,4 @@
-# BlynkGO_NixieClock
+# โปรเจค BlynkGO_NixieClock
 โปรเจค แสดง นาฬิกา ด้วย Nixie Tube  
 พร้อมทั้ง เมื่อมีการกดที่นาฬิกาค้างจะทำการจับภาพหน้าจอ  
 แล้วส่ง LINE Notify ภาพหน้าจอนั้น
