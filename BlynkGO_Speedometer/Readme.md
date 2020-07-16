@@ -1,4 +1,4 @@
-## [BlynkGO] Speedometer Project
+## [BlynkGO Projects] Speedometer หน้าปัดรถยนต์บอกความเร็ว
 
 ![BlynkGO_Speedometer](https://github.com/BlynkGO/BlynkGO_Projects/blob/master/BlynkGO_Speedometer/BlynkGO_Speedometer.gif?raw=true) 
 
