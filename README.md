@@ -1,11 +1,11 @@
-# BlynkGO_Projects
- Projects by BlynkGO
+# BlynkGO Projects
+โปรเจคต่างๆด้วย BlynkGO
 
-## [BlynkGO_NiexieClock](./BlynkGO_NixieClock)
+## [BlynkGO NiexieClock](./BlynkGO_NixieClock)
 โปรเจคสร้างนาฬิกา Nixie พร้อมจับภาพหน้าจอส่ง LINE
 <p align=left><img src="./BlynkGO_NixieClock/BlynkGO_NixieClock.gif"></p>
 
-## [BlynkGO_Speedometer](./BlynkGO_Speedometer)
+## [BlynkGO Speedometer](./BlynkGO_Speedometer)
 โปรเจคสร้างหน้าปัดรถยนต์บอกความเร็ว
 <p align=left><img src="./BlynkGO_Speedometer/BlynkGO_Speedometer.gif"></p>
 
