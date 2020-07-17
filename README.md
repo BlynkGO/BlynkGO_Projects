@@ -11,7 +11,7 @@
 
 ## HomePlan Switch
 โปรเจคสร้าง สวิตซ์เปิดปิดไฟ จากแปลนบ้าน
-<p align=left><img src="./HomePlan_Switch/HomePlanSwitch.gif"></p>
+<p align=left><img src="./HomePlan_Switch/HomePlan_Switch.gif"></p>
 
 ## HomePlan Switch with Blynk
 โปรเจคสร้าง สวิตซ์เปิดปิดไฟ จากแปลนบ้าน  
