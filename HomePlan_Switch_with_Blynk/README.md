@@ -3,7 +3,8 @@
 
 ![HomePlanSwitch_Blynk](HomePlanSwitch_Blynk.gif)  
   
- 
+![HomePlanSwitch_Blynk](HomePlanSwitch_Blynk2.gif)  
+
 ## วิธีสร้าง
 https://bit.ly/38CZn8s
 
