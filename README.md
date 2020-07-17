@@ -16,3 +16,5 @@
 ## HomePlan Switch with Blynk
 โปรเจคสร้าง สวิตซ์เปิดปิดไฟ จากแปลนบ้าน  
 ให้ทำงานร่วมกับแอพ Blynk
+<p align=left><img src="./HomePlan_Switch_with_Blynk/HomePlanSwitch_Blynk2.gif"></p>
+
