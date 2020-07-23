@@ -1,6 +1,10 @@
 # BlynkGO Projects
 โปรเจคต่างๆด้วย BlynkGO
 
+## [BlynkGO_Matrix_DHT](./BlynkGO_Matrix_DHT)
+โปรเจค Animation รูปภาพ และการแสดงผล DHT ด้วยวิตเจ็ต GGauge
+<p align=left><img src="./BlynkGO_Matrix_DHT/BlynkGO_Matrix_DHT.gif"></p>
+
 ## [BlynkGO NiexieClock](./BlynkGO_NixieClock)
 โปรเจคสร้างนาฬิกา Nixie พร้อมจับภาพหน้าจอส่ง LINE
 <p align=left><img src="./BlynkGO_NixieClock/BlynkGO_NixieClock.gif"></p>
