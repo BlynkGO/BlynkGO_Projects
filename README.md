@@ -5,6 +5,10 @@
 โปรเจคตัวอย่าง การอ่าน SD เพื่อนำชื่อไฟล์มาแสดงบนวิตเจต GList 
 <p align=left><img src="./BlynkGO_List_from_SD/BlynkGO_List_from_SD.gif"></p>  
   
+## [BlynkGO_GLabel_Animation](./BlynkGO_GLabel_Animation)  
+การ Presentation ข้อความ ด้วยระบบ BlynkGO Animation   
+<p align=left><img src="./BlynkGO_GLabel_Animation/BlynkGO_GLabel_Animation.gif"></p>  
+  
 ## [BlynkGO_Matrix_DHT](./BlynkGO_Matrix_DHT)
 โปรเจค Animation รูปภาพ และการแสดงผล DHT ด้วยวิตเจ็ต GGauge
 <p align=left><img src="./BlynkGO_Matrix_DHT/BlynkGO_Matrix_DHT.gif"></p>
