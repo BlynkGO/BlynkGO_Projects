@@ -17,6 +17,10 @@
 โปรเจคสร้างหน้าปัดรถยนต์บอกความเร็ว
 <p align=left><img src="./BlynkGO_Speedometer/BlynkGO_Speedometer.gif"></p>
 
+## [BlynkGO TimerSwitch](./BlynkGO_TimerSwitch)  
+โปรเจคสร้างปุ่มหมุนด้วย GKnob และ ตัวตั้งเวลาด้วย GRoller  
+<p align=left><img src="./BlynkGO_TimerSwitch/BlynkGO_TimerSwitch.gif"></p>
+
 ## [HomePlan Switch](./HomePlan_Switch)
 โปรเจคสร้าง สวิตซ์เปิดปิดไฟ จากแปลนบ้าน
 <p align=left><img src="./HomePlan_Switch/HomePlan_Switch.gif"></p>
