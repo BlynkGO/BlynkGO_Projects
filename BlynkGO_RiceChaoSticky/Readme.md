@@ -1,5 +1,5 @@
 ## โปรเจค BlynkGO_RiceChaoSticky
-โปรเจคสำหรับสร้าง หน้าปัดรถยนต์บอกความเร็ว 
+โปรเจคตัวอย่างการปาดนิิ้วขึ้นลง เพื่อปรับค่า 
 
 <p align=left><img src="./BlynkGO_RiceChaoSticky.gif"></p>
 
