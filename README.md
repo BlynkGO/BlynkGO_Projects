@@ -1,6 +1,10 @@
 # BlynkGO Projects
 โปรเจคต่างๆด้วย BlynkGO
 
+## [BlynkGO_DHT_SD_SQLDatabase](./BlynkGO_DHT_SD_SQLDatabase)
+โปรเจคตัวอย่าง แสดงค่าเซนเซอร์ DHT22 ออกจอ และบันทึกลง SD ด้วย SQL Database
+<p align=left><img src="./BlynkGO_DHT_SD_SQLDatabase/BlynkGO_DHT_SD_SQLDatabase.jpg"></p>  
+
 ## [BlynkGO_List_from_SD](./BlynkGO_List_from_SD)
 โปรเจคตัวอย่าง การอ่าน SD เพื่อนำชื่อไฟล์มาแสดงบนวิตเจต GList 
 <p align=left><img src="./BlynkGO_List_from_SD/BlynkGO_List_from_SD.gif"></p>  
