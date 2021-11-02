@@ -1,8 +1,7 @@
-## โปรเจค BlynkGO_List_from_SD
+## โปรเจค BlynkGO_DHT_SD_SQLDatabase
 ตัวอย่าง อ่าน ชื่อไฟล์ ในโฟลเดอร์ บน SD Card มาแสดง ด้วยวิตเจ็ต GList  
 
-<p align=left><img src="BlynkGO_List_from_SD.gif"></p>
+<p align=left><img src="BlynkGO_DHT_SD_SQLDatabase.jpg"></p>
 
-__หมายเหตุ__ โคดนี้ สามารถใช้ได้กับจอทุกขนาด และ ESP32 ทุกบอร์ดที่มี sd card
 
 
